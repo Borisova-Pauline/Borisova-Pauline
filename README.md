@@ -1,2 +1,1 @@
-# -Borisova-Pauline
-profile repository
+Android developer
